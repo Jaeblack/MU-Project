@@ -8,7 +8,7 @@ Parquick is a platform for drivers to find a parking lot, and for parking lot ow
 
 - Driver : A user who wants to rent a parking lot
 
-- Owner : A user who wants to put their one or many parking slots up for rent
+- Owner : A user who wants to put their one or many parking lots up for rent
 
 ## User Personas
 
