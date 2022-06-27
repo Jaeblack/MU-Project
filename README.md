@@ -35,4 +35,4 @@ Paul is a bussiness man who works all the day every day and have too many houses
 - As an Owner I want to get paid without the need of being in every of my parkings, using credit cards
 - As an Owner I want to automatically share a percentage of my earnings from the parkings with other person
 - As an Owner I want to promote my parking showing all the features it has, like the size, if it is in the shade, if is it in a closed space or in the outside and what kind of security it has
-- As an Driver I want to find only the parkings where my car could fit
+- As an Driver I want to find only the parkings where my car could fit .
